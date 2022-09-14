@@ -1,1 +1,2 @@
-head -n iacts | tail -n l
+#!bin/bash
+head -3 iacta |tail -1
